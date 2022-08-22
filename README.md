@@ -4,7 +4,7 @@
 ## Requirements ##
 
 [Homebrew](https://brew.sh/) - for installing apps
-Bash Shell 
+Bash Shell
 
 ### Apps to install: ###
 
@@ -27,3 +27,4 @@ Bash Shell
 
 * cow
 * weather
+* figlet Hello There!
