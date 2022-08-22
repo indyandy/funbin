@@ -1,6 +1,8 @@
 
 # Fun Bin #
 
+Just some fun and simple scripts and shortcuts to make the terminal a little more fun.
+
 ## Requirements ##
 
 [Homebrew](https://brew.sh/) - for installing apps
