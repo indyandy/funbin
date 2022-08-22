@@ -4,6 +4,7 @@
 ## Requirements ##
 
 [Homebrew](https://brew.sh/) - for installing apps
+Bash Shell 
 
 ### Apps to install: ###
 
@@ -11,6 +12,7 @@
 * fortune
 * cowsay
 * lolcat
+* figlet
 
 ## Suggested Application ##
 
@@ -18,7 +20,8 @@
 
 ## Installation ##
 
-
+* Clone repo into `~/funbin`
+* Add `$HOME/funbin` to `$PATH` in `.bash_profile`
 
 ## Fun Commands ##
 
