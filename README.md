@@ -1,7 +1,7 @@
 
 # Fun Bin #
 
-Just some simple scripts and shortcuts to make the terminal a little more fun.
+Simple scripts and shortcuts to make the terminal a little more fun.
 
 ## Requirements ##
 
